@@ -13,3 +13,8 @@ Commonly, found application is in our phone keyboard, which suggests a text to u
 The sentence could be completed by using the following words: market, hospital, farm.
 “I am going to the market”, “I am going to the hospital”, “I am going to the farm”.
 The task of predicting the next word is what language modeling is all about in natural language processing (NLP), using machine learning to predict (guess) the word. How can we achieve this in NLP?
+
+## Technology Stack
+Keras
+TensorFlow - Google's DeepLearning Framework
+RNN
