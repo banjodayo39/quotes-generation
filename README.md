@@ -6,8 +6,7 @@ This demonstrate generation of quote text using charactered based RNN, the data 
 </a>
 
 
-##  Focus Area 
-Language Modeling 
+##  Focus Area: Language Modeling 
 Language Modeling is the ability to predict the next word or character since characters made-up a word. “man” is a word that has 3 characters: ‘m’, ‘a‘, ’n’. It cut across various applications such as speech recognition, optical character recognition, text generation, handwriting recognition, machine translation, and spelling correction.
 Commonly, found application is in our phone keyboard, which suggests a text to us while typing.
 “ …I am going to the …..”,
