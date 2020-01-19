@@ -15,6 +15,15 @@ The sentence could be completed by using the following words: market, hospital, 
 The task of predicting the next word is what language modeling is all about in natural language processing (NLP), using machine learning to predict (guess) the word. How can we achieve this in NLP?
 
 ## Technology Stack
-Keras
-TensorFlow - Google's DeepLearning Framework
-RNN
+- Keras
+- TensorFlow  Google's DeepLearning Framework
+- RNN
+- Word Embedding
+
+## How it was built
+- Create word embedding vector 
+- Vectorize the text 
+- Build the model 
+- Train the model
+- Execute the training 
+- Generate the text
