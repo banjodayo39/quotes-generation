@@ -28,5 +28,5 @@ The task of predicting the next word is what language modeling is all about in n
 - Execute the training 
 - Generate the text
 
-## Result
+## Sample Result
 Strenth comes from with the mind, reach out from the strength in mercy. I don't want to be a person who does not attempt to be a professional consciousness. I will not be able to be a professional world. I want you to know and a free will.Then the only thing that is the best of all things to be happy. I want you to know that I am not a bad memory of the most powerful thing in the world. Be a profound fact. I will be a person who can say is to be a possession of the earth. In a world where there is no such thing as a poet. The secret of life is the power of love and the universe is the way to get the charges. Do you think I have a promises. I think we can change the world of empty consc
