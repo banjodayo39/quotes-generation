@@ -17,7 +17,7 @@ The task of predicting the next word is what language modeling is all about in n
 ## Technology Stack
 - Keras
 - TensorFlow  Google's DeepLearning Framework
-- RNN
+- GRU
 - Word Embedding
 
 ## How it was built
